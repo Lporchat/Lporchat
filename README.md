@@ -34,7 +34,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+##  &nbsp;Social Links
 <a href="https://twitter.com/LPorchatDev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LPorchatDev-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>

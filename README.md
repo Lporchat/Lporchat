@@ -23,7 +23,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&color=blueviolet)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&color=blueviolet)&nbsp;
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 

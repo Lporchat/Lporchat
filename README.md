@@ -3,11 +3,11 @@
 <h1 align="left">Hey guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm LPorchat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lporchat&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 JR Back-And Developer. 
+- 🔥 JR Back-End and Mobile Developer. 
 
 - 🔭 I’m currently working at Escola de Governo
 
-- 💬 Ask me about **JavaScript, SQL, Node.JS**
+- 💬 Ask me about **TypeScript, SQL, Node, Flutter and Dart**
 
 <br><br>
 

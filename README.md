@@ -1,13 +1,13 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Lporchat/c611e31be4d4e9047595f97ec0181d04/raw/d91e78d17466f86d3d2ccbb17db9a8327184cf8d/githubCard.svg"/>
-<h1 align="left">Hey guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm LPorchat</h1>
+<h1 align="left">Hey guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm LPorchat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lporchat&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 JR Back-End and Mobile Developer. 
+- 🔥 JR Back-And Developer. 
 
 - 🔭 I’m currently working at Escola de Governo
 
-- 💬 Ask me about **TypeScript, SQL, Node.JS, FLutter and Dart**
+- 💬 Ask me about **JavaScript, SQL, Node.JS**
 
 <br><br>
 

@@ -1,25 +1,27 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Lporchat/c611e31be4d4e9047595f97ec0181d04/raw/d91e78d17466f86d3d2ccbb17db9a8327184cf8d/githubCard.svg"/>
+<img align="right" height="590em" 
+src="https://gist.githubusercontent.com/Lporchat/c611e31be4d4e9047595f97ec0181d04/raw/7b69cb6db3cc534da1aba7e690c016150c34abd1/githubCard.svg"/>
 <h1 align="left">Hey guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm LPorchat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lporchat&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 JR Back-End and Mobile Developer. 
+- 🔥 Full Stack JR Developer. 
 
-- 🔭 I’m currently working at Escola de Governo
+- 🔭 I’m currently working at Grupo Morada
 
-- 💬 Ask me about **TypeScript, SQL, Node, Flutter and Dart**
+- 💬 Ask me about **TypeScript, Postgres, MongoDB, Node, Flutter and Dart**
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript&color=blueviolet)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&color=blueviolet)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=blueviolet)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&color=blueviolet)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=blueviolet)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=blueviolet)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=blueviolet)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&color=blueviolet)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&color=blueviolet)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&color=blueviolet)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&color=blueviolet)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&color=blueviolet)&nbsp;

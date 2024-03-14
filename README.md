@@ -6,8 +6,6 @@ src="https://gist.githubusercontent.com/Lporchat/c611e31be4d4e9047595f97ec0181d0
 
 - 🔥 Full Stack JR Developer. 
 
-- 🔭 I’m currently working at Grupo Morada
-
 - 💬 Ask me about **TypeScript, Postgres, MongoDB, Node, Flutter and Dart**
 
 <br><br>
